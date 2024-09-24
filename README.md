@@ -1,9 +1,5 @@
   <h1> GlobalCreation  </h1>
 
-<p> Mon prénom est Yohan :sparkles: <br> 
-Je suis le fondateur de NiceUrgence. J'ai aussi créé SinixDev :bulb: <br> 
-Je suis Développeur depuis maintenant plus de 3 ans ! :fire:</p>
-
                                         ____ _       _           _  ____                _   _             
                                       / ___| | ___ | |__   __ _| |/ ___|_ __ ___  __ _| |_(_) ___  _ __  
                                       | |  _| |/ _ \| '_ \ / _` | | |   | '__/ _ \/ _` | __| |/ _ \| '_ \ 
